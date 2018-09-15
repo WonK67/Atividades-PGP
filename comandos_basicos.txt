@@ -1,0 +1,16 @@
+Baixar repositório (primeira vez): git clone URL
+Baixar atualizações (outras vezes): git pull
+
+Mandar todas as modificações feitas para a zona intermediária: git add .
+
+Comitar todas as modificações que estão na zona intermediária: git commit -m "mensagem de commit"
+
+Mandar todos os commits para o repositório: git push
+
+------
+
+Outros comandos:
+
+Ver o que você modificou desde o último clone/pull: git status
+
+Mandar apenas uma modificação para a zona intermediária: git add exemplo.txt
