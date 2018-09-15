@@ -1,5 +1,7 @@
 Configurações iniciais:
 
+Na página do repositório, clique no botão verde Clone/Download e selecione para usar SSH. Copie a URL.
+
 Baixar repositório: git clone URL
 
 Acessar pasta do repositório: cd pasta_repositorio
@@ -16,7 +18,7 @@ Baixar atualizações do repositório: git pull
 
 Mandar todas as modificações feitas para a zona intermediária: git add .
 
-Comitar todas as modificações que estão na zona intermediária: git commit -m "mensagem de commit"
+Comitar todas as modificações que estão na zona intelrmediária: git commit -m "mensagem de commit"
 
 Mandar todos os commits para o repositório: git push
 
