@@ -1,6 +1,6 @@
 Configurações iniciais:
 
-Na página do repositório, clique no botão verde Clone/Download e selecione para usar SSH. Copie a URL.
+Na página do repositório, clique no botão verde Clone/Download. Copie a URL.
 
 Baixar repositório: git clone URL
 
