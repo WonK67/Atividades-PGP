@@ -1,5 +1,18 @@
-Baixar repositório (primeira vez): git clone URL
-Baixar atualizações (outras vezes): git pull
+Configurações iniciais:
+
+Baixar repositório: git clone URL
+
+Acessar pasta do repositório: cd pasta_repositorio
+
+git config --global user.email "you@example.com"
+
+git config --global user.name "Your Name"
+
+-------
+
+Comandos básicos:
+
+Baixar atualizações do repositório: git pull
 
 Mandar todas as modificações feitas para a zona intermediária: git add .
 
